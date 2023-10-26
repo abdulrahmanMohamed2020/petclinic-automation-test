@@ -56,7 +56,6 @@ allure serve "allure-result" path
 * Selenium Webdriver
 * TestNG
 * Allure Report
-* Rest Assured to do login from BE
 * Commons IO
 ## Project Design:
 * Page Object Model (POM) design pattern
