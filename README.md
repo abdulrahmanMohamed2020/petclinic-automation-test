@@ -1,5 +1,5 @@
 # petclinic-automation-test
-
+ 
  
 ## Project Overview:
 * This automation framework utilizes Selenium and Java to automate test cases for [pet clinic]. It aims to provide comprehensive test coverage for the main features of the application. This README file serves as a guide for setting up and using the framework effectively.
